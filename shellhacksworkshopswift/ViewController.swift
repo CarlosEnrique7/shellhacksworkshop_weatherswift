@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     // get your API key and insert it here. You can get a free one at: https://home.openweathermap.org/users/sign_up
-    let APIKEY = "ENTER_YOUR_API_KEY_HERE"
+    let APIKEY = "ENTER_API_KEY_HERE"
     var icon = ""
     var cityName = "Miami"
     var weather = [[String:Any]]()
